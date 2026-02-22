@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Reverse Engineer",
+  "description": "Upload an image or video to generate a detailed prompt to recreate it.",
+  "requestFramePermissions": []
+}
